@@ -1,6 +1,5 @@
-package assignments2017.a1posted;
 
-
+//Grade school arithmetic operations 
 
 import java.util.LinkedList;
 
